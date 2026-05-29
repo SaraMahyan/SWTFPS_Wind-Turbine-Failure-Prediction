@@ -1,0 +1,9 @@
+Column Name,Min,Max
+sensor_0_avg,9.999999999999998,34.0
+sensor_1_avg,9.8,351.8
+sensor_43_avg,22.0,40.0
+sensor_11_avg,34.0,67.0
+wind_speed_3_avg,1.2,12.6
+voltage,394.6333333333334,401.9
+sensor_50,-1987.0,262752.0
+failure,0.0,1.0
