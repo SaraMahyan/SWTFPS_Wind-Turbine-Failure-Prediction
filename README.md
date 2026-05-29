@@ -71,3 +71,6 @@ The terminal will begin displaying live sensor readings alongside the scaled SCA
 ## 📊 Model Evaluation
 During training, the system evaluates models based on **Accuracy, Precision, Recall, and F1-Score**. 
 It utilizes a **Stacking Classifier** combining MLP, Random Forest, Logistic Regression, and Decision Trees (along with boosting models if installed) to achieve the highest predictive accuracy and robustness against false positives.
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
