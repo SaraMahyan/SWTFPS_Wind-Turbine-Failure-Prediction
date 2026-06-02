@@ -1,6 +1,10 @@
 # ESP32 Wind Turbine Sensor Control & Machine Learning Failure Prediction
 
 This project is a comprehensive end-to-end IoT and Machine Learning system designed to monitor wind turbine conditions, analyze sensor data, and perform real-time failure prediction. It utilizes an ESP32 microcontroller to gather environmental and operational data, and a suite of Machine Learning algorithms to classify the system's status as "Normal" or "Failure" on the fly.
+❗
+## **⚠️❗ IMPORTANT:** 
+
+Please note that all files were bulk-uploaded at the conclusion of the project instead of individual commits by each team member!
 
 ## 🚀 Project Overview
 
