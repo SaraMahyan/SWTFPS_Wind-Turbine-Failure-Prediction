@@ -13,7 +13,7 @@ def reading_csv(file_path):
     return df
 
 try:
-    # 1. İşlenmiş dosyayı oku
+    # 1. İşlenmiş dosyayı oku (output file pathini versin)
     df = reading_csv(output_file_path)
 
     print("\n--- CSV İlk 5 Satır ---")
